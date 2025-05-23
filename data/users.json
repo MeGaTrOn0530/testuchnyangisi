@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "firstName": "Admin",
+    "lastName": "User",
+    "direction": "Admin",
+    "phone": "+998901234567",
+    "telegram": "@admin",
+    "login": "admin",
+    "password": "$2a$10$lat/01axwSFCl05X3rmeUe20fVyRCzuzNObRkh1D4utOnZnc3uLIy",
+    "isAdmin": true,
+    "createdAt": "2025-05-23T09:23:07.336Z"
+  }
+]
